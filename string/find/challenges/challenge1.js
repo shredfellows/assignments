@@ -1,3 +1,4 @@
+/*
 # Challenge 1
 
 ##  Occurrence of a Letter
@@ -24,3 +25,4 @@ Write a function called `charOccurence()` that takes a string and a character. R
 ## Stretch Goals
 
  - Modify your function to return the second most occurring character in the string.
+ */
