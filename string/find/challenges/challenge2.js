@@ -1,3 +1,4 @@
+/*
 # Challenge 2
 
 ##  First Duplicate Character
@@ -27,3 +28,4 @@ If the string is empty, return  `null` .
 ## Stretch Goals
 
  - Modify your function to accept two strings. Return the first character that exists in both of the strings.
+*/
