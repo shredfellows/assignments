@@ -1,11 +1,13 @@
 'use strict';
 
 /* ------------------------------------------------------------------------------------------------
-CHALLENGE 2
+CHALLENGE 1
 
-Write a function named forEachTwoToThe that produces the same output as your forLoopTwoToThe function from challenge 1, but uses forEach instead of a for loop.
+Write a function named oddValues that, given an array of integers as input, uses filter to return an array containing only the odd integers.
+
+For example, oddValues([1,2,3]) returns [1,3].
 ------------------------------------------------------------------------------------------------ */
 
-const forEachTwoToThe = (arr) => {
+const oddValues = (arr) => {
   // Solution code here...
 };
